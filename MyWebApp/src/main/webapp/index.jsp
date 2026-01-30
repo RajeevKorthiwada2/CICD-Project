@@ -4,6 +4,6 @@
 <title>Some relevant title</title>
 </head>
 <body>
-<h2>Hi Team! We are implementing CICD workflow!!!!!!!!!</h2>
+<h2>Hi Team! We are implementing CICD pipeline</h2>
 </body>
 </html>
